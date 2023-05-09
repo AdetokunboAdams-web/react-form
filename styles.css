@@ -1,0 +1,14 @@
+body {
+  background:#CED4DA;
+  
+}
+.error{
+  position: absolute;
+  color: red;
+  font-size: 6 rem;
+}
+.message {
+  font-size: 1.2em;
+  text-align: center;
+  color: #36a936;
+}

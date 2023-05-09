@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-form/static/css/main.c2cab247.css",
+    "main.js": "/react-form/static/js/main.391a5118.js",
+    "static/media/image.jpg": "/react-form/static/media/image.aab3b7fcfcb73b567ca0.jpg",
+    "index.html": "/react-form/index.html",
+    "main.c2cab247.css.map": "/react-form/static/css/main.c2cab247.css.map",
+    "main.391a5118.js.map": "/react-form/static/js/main.391a5118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.391a5118.js"
+  ]
+}
